@@ -10,7 +10,7 @@ About Me<br><br>Hi, I’m Thirumalai 👋<br>🎓 Computer Science Engineering S
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Thirumalai23013035&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Thirumalai23013035&theme=dark&hide_border=false)<br/>
-![](<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/8d0b662d-b9f9-494d-afbc-c994b22b7881" />)
+![](https://streak-stats.demolab.com/?user=Thirumalai23013035&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thirumalai23013035&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
