@@ -68,7 +68,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🛒 [ShopSphere](https://github.com/Thirumalai23013035) – Full Stack E-Commerce Platform
+#### 🛒 [ShopSphere](https://shopsphere-weld-nu.vercel.app/) – Full Stack E-Commerce Platform
 Built with **MongoDB, Express.js, React.js, Node.js**
 - JWT Authentication and Role-Based Authorization
 - Product CRUD, search, filtering, sorting, and pagination
