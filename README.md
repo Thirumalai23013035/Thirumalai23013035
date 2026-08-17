@@ -19,6 +19,7 @@ Hi, I'm **Thirumalai** 👋
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumalai-v7)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirumalaiofficial007@gmail.com)
 
 ---
@@ -60,7 +61,7 @@ Hi, I'm **Thirumalai** 👋
 
 # 🚀 Featured Projects
 
-### 🛒 ShopSphere – Full Stack E-Commerce Platform
+## 🛒 ShopSphere – Full Stack E-Commerce Platform
 
 - Built using **MongoDB, Express.js, React.js, and Node.js**
 - Implemented **JWT Authentication and Role-Based Authorization**
@@ -68,7 +69,7 @@ Hi, I'm **Thirumalai** 👋
 - Integrated **Cloudinary and Multer** for product image uploads
 - Built features including **Cart, Wishlist, Orders, and Payments**
 
-### 🏦 FinCore – Banking Management System
+## 🏦 FinCore – Banking Management System
 
 - Built using **Java, Spring Boot, Spring Security, MySQL, JPA, and Hibernate**
 - Implemented **JWT Authentication and REST APIs**
@@ -76,17 +77,22 @@ Hi, I'm **Thirumalai** 👋
 - Added **PDF Statement Generation and Swagger API Documentation**
 
 ---
+
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Thirumalai23013035&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Thirumalai23013035&show_icons=true&theme=github_dark&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-<br/>
-
-<img width="495" height="195" alt="GitHub Stats" src="https://github.com/user-attachments/assets/1aadde66-2be6-475e-9a37-8c59a18997b9"/>
-
-<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thirumalai23013035&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalai23013035&layout=compact&theme=github_dark&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
