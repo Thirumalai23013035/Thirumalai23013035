@@ -68,9 +68,10 @@
 
 ### 🚀 Featured Projects
 
-#### 🛒 # 🛒 ShopSphere – Full Stack E-Commerce Platform
+#### 🛒 ShopSphere – Full Stack E-Commerce Platform
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20ShopSphere-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shopsphere-weld-nu.vercel.app/)
+
 Built with **MongoDB, Express.js, React.js, Node.js**
 - JWT Authentication and Role-Based Authorization
 - Product CRUD, search, filtering, sorting, and pagination
