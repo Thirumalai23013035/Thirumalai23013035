@@ -78,10 +78,13 @@ Hi, I'm **Thirumalai** 👋
 ---
 # 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thirumalai23013035&show_icons=true&theme=github_dark&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api?username=Thirumalai23013035&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalai23013035&layout=compact&theme=github_dark&hide_border=true"/>
+<br/>
 
+<img width="495" height="195" alt="GitHub Stats" src="https://github.com/user-attachments/assets/1aadde66-2be6-475e-9a37-8c59a18997b9"/>
+
+<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thirumalai23013035&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
