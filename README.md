@@ -78,7 +78,7 @@ Built with **MongoDB, Express.js, React.js, Node.js**
 - Cloudinary + Multer integration for product image uploads
 - Cart, wishlist, orders, and payment flow
 
-#### 🏦 [FinCore](https://github.com/Thirumalai23013035) – Banking Management System
+#### 🏦 [FinCore](https://github.com/Thirumalai23013035/FinCore-Banking-Application) – Banking Management System
 Built with **Java, Spring Boot, Spring Security, MySQL, JPA, Hibernate**
 - JWT Authentication and REST APIs
 - Account management, fund transfers, transaction history
